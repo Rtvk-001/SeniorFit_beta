@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1084599200097",
+    "project_id": "sih-fit-test",
+    "storage_bucket": "sih-fit-test.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1084599200097:android:8c4fe12976a1ead74abd20",
+        "android_client_info": {
+          "package_name": "com.example.instagram_clone_flutter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuLSjNFhGgO0nNUxugCwrirBEURC4TazE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
