@@ -1,7 +1,6 @@
-# flutter1
+# SeniorFit
 
-A new Flutter project.
-
+An app designed to foster a community of senior citizens, enabled through fitness and health!
 ## Getting Started
 
 This project is a starting point for a Flutter application.
